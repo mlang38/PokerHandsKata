@@ -1,0 +1,17 @@
+{
+    "name": "vendor/poker-hands",
+    "description": "Description of project PokerHands.",
+    "authors": [
+        {
+            "name": "mlangevin",
+            "email": "your@email.here"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "FTH\\Katas\\PokerHands\\": ""
+        }
+    }
+}

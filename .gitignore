@@ -1,0 +1,21 @@
+# Created by http://www.gitignore.io
+
+### NetBeans ###
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+
+### Linux ###
+*~
+
+
+### Composer ###
+# Composer - http://getcomposer.org
+/vendor
+composer.phar
+
